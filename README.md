@@ -1,1 +1,1 @@
-# robin-chen-case-study-katana-3d-ecommerce
+# Robin Chen case study - 3D tattoo communication assistant
