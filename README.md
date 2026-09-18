@@ -1,1 +1,1 @@
-# robin-chen-case-study-katana-3d-ecommerce
+# robin-chen-case-study-3d-tattoo-commucation-assistant
