@@ -1,1 +1,1 @@
-# robin-chen-case-study-3d-tattoo-commucation-assistant
+# robin-chen-case-study-b2c-igaming-website
